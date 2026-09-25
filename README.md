@@ -1,6 +1,6 @@
 # Endian Firewall UTM — Installation, Configuration & Security Policy Lab
 
-A hands-on lab covering the full lifecycle of a **UTM firewall appliance**: bare-metal installation of **Endian Firewall Community** on repurposed desktop hardware, GREEN/RED zone network setup, custom firewall rules, HTTP proxy and category-based web filtering, per-client access policies, and live log verification — built and tested end-to-end on physical hardware.
+A lab is covering the full lifecycle of a **UTM firewall appliance**: bare-metal installation of **Endian Firewall Community** on repurposed desktop hardware, GREEN/RED zone network setup, custom firewall rules, HTTP proxy and category-based web filtering, per-client access policies, and live log verification — built and tested end-to-end on physical hardware.
 
 ---
 
